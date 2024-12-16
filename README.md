@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hugh
 - 👀 I’m interested in big data, NLP, FP, mathematics, woodworking(aka sawdust), hot chicks
-- 🌱 I’m currently learning Scala, Cats, ZIO, Calculus, humility
+- 🌱 I’m currently learning Scala, Cats, ZIO, Calculus, humility, Go, Rust, Linear Algebra, patience
 - 💞️ I’m looking to collaborate on indexing very large scale data
 - 📫 How to reach me gmail.com@hjamieson5  <-- don't spam me pls
 
